@@ -1,6 +1,6 @@
 {
   "name": "jsdifflib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "jsdifflib is a Javascript library that provides  a partial reimplementation of Python's difflib module (specifically, the SequenceMatcher class).",
   "main": "index.js",
   "scripts": {

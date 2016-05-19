@@ -1,0 +1,22 @@
+{
+  "name": "jsdifflib",
+  "version": "1.0.0",
+  "description": "jsdifflib is a Javascript library that provides  a partial reimplementation of Python's difflib module (specifically, the SequenceMatcher class).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w-site/jsdifflib.git"
+  },
+  "keywords": [
+    "jsdifflib"
+  ],
+  "author": "Aleksandr Litynskyi <w.siteee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/w-site/jsdifflib/issues"
+  },
+  "homepage": "https://github.com/w-site/jsdifflib#readme"
+}
